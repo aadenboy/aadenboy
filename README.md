@@ -10,6 +10,7 @@ good question
   * programming (obviously)
   * game development (occassionally)
   * art and doodling (see on my youtube)
+  * music! (less frequently)
   * whatever decides to interest me (varies a lot)
 
 ### but also...
@@ -32,9 +33,8 @@ sure! here's some stuff you might like...
   * [Vector Font Editor](https://aadenboy.github.io/vector-font-editor/) - A simple, online vector font editor!
   * [Trampolines](https://esolangs.org/wiki/Trampolines) - An esolang where you bounce a ball on trampolines (check out my others too!)
   * [Abstrate](https://aadenboy.itch.io/abstrate) - A sokoban puzzle game made for the GMTK2024 Game Jam
-  * [Zubia](https://docs.google.com/document/d/1l_3nXIIQTy70skDrhIfcOw7wdXYe-wMdrD6xt5v00OQ/edit?usp=sharing) - An in-the-works conlang
-  * [The CelLua Wiki](https://cellua.miraheze.org/wiki/Main_Page) - A wiki I often contribute to!
-  * TBA...
+  * [The CelLua Machine Wiki](https://cellua.miraheze.org/wiki/Main_Page) - A wiki I often contribute to!
+  * and whatever else and crap
 
 ## where can I find you
   * https://www.youtube.com/@aadenboy
