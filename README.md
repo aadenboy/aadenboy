@@ -1,7 +1,6 @@
 # HELLO!
-<dd><i>it's pronounced [ˈejˌdɛnbɔjː] (EY-den-boi)</i></dd>
-hello! I do stuff very often! a LOT of miscellanea!
-
+<dd><i>it's pronounced [ˈeɪˌdɛnbɔɪː] (EY-den-boi)</i></dd>
+hello! I do thing very often! a LOT of miscellanea!
 
 ## here's some stuff you might like...
   * [Unicode Box Art Drawing](https://marketplace.visualstudio.com/items?itemName=aadenboy.box-art-draw) - Draw with Unicode's box art characters directly in VSCode!
@@ -13,6 +12,7 @@ hello! I do stuff very often! a LOT of miscellanea!
 
 ## where can I find you
   * aadenboy@email.com (for direct inquiry)
+    * https://aadenboy.github.io/inbox/ or send stuff to my inbox
   * [YouTube](https://www.youtube.com/@aadenboy) (if you like content and a Lot of art)
   * [Tumblr](https://www.tumblr.com/aadenboy) (you can better message me here, but it's also a Lot of art)
 
