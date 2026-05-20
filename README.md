@@ -3,6 +3,7 @@
 hello! I do thing very often! a LOT of miscellanea!
 
 ## here's some stuff you might like...
+  * [Tecknar](https://aadenboy.github.io/tecknar/) - An embeddable art program for the web.
   * [Unicode Box Art Drawing](https://marketplace.visualstudio.com/items?itemName=aadenboy.box-art-draw) - Draw with Unicode's box art characters directly in VSCode!
   * [Vector Font Editor](https://aadenboy.github.io/vector-font-editor/) - A simple, online vector font editor.
   * [CelLua Duracell](https://github.com/aadenboy/CelLua-Duracell) - more cellular automaton crap yaaayayayayay
