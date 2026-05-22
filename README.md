@@ -25,5 +25,7 @@ more prevalent in wikis tbh
 
 ## sponsors!!
 thank you everyone listed!
+
 ![See list below.](sponsorlist.png)
+
 *([GratKrzy](https://github.com/gratkrzy))*
