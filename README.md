@@ -22,3 +22,8 @@ more prevalent in wikis tbh
   * [Esolang](https://esolangs.org/wiki/User:Aadenboy) (my technical crap. enjoy the matrix of solidarity)
   * [sona pona](https://sona.pona.la/wiki/User:Aadenboy) (miscellaneous edits but also toki pona)
   * [Element Cattos](https://elementcattos.miraheze.org/wiki/User:Aadenboy) (moderator; but it's also a lot of backend templating and stuff)
+
+## sponsors!!
+thank you everyone listed!
+![See list below.](sponsorlist.png)
+*([GratKrzy](https://github.com/gratkrzy))*
