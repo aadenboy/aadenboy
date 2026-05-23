@@ -28,4 +28,4 @@ thank you everyone listed!
 
 ![See list below.](sponsorlist.png)
 
-*([GratKrzy](https://github.com/gratkrzy), [SuperMesuGoji](https://github.com/supermesugoji))*
+*([GratKrzy](https://github.com/gratkrzy), [SuperMesuGoji](https://github.com/supermesugoji), [Clerical18](https://github.com/Clerical18))*
